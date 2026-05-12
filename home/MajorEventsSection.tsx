@@ -1,0 +1,33 @@
+import { majorEvents } from "@/data/events";
+import EventCard from "./EventCard";
+
+export default function MajorEventsSection() {
+  return (
+    <section className="mx-auto max-w-[1440px] px-8 pt-12 pb-10">
+      <div className="mb-6 flex items-end justify-between">
+        <div>
+          <h2 className="text-4xl font-extrabold tracking-tight text-[#0E1B34]">
+            Major Events ☆
+          </h2>
+          <p className="mt-1 text-base text-gray-500">
+            High-impact faith-based events happening around the world.
+          </p>
+        </div>
+
+        <a
+          href="https://app.judahglobal.com/signup?redirect=/major-events"
+          className="text-sm font-extrabold text-[#0E1B34]"
+        >
+          View All Major Events →
+        </a>
+        
+      </div>
+
+      <div className="flex gap-6 overflow-x-auto pb-4">
+        {majorEvents.map((event) => (
+          <EventCard key={event.title} {...event} />
+        ))}
+      </div>
+    </section>
+  );
+}
