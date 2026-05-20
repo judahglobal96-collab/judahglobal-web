@@ -15,7 +15,7 @@ export default function MajorEventsSection() {
         </div>
 
         <a
-          href="https://app.judahglobal.com/signup?redirect=/major-events"
+          href="https://app.judahglobal.org/signup?redirect=/major-events"
           className="text-sm font-extrabold text-[#0E1B34]"
         >
           View All Major Events →

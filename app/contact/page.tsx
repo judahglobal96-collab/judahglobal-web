@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 
 export default function ContactPage() {
-  const supportEmail = "jgsupport@judahglobal.com";
+  const supportEmail = "jgsupport@judahglobal.org";
 
   const supportCards = [
     {

@@ -204,7 +204,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For additional assistance regarding FAQ topics:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: jgsupport@judahglobal.org</p>
       </LegalSection>
 
       <LegalSection title="2. Contact Support">
@@ -232,7 +232,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For all general support inquiries:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: jgsupport@judahglobal.org</p>
 
         <h3>Recommended Information When Contacting Support</h3>
 
@@ -299,7 +299,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For technical platform assistance:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: jgsupport@judahglobal.org</p>
 
         <h3>Recommended Technical Support Information</h3>
 
@@ -358,7 +358,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For billing assistance:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: contactjg@judahglobal.org</p>
 
         <h3>Recommended Billing Information</h3>
 
@@ -411,7 +411,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For promotional guidance:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: contactjg@judahglobal.org</p>
 
         <h3>Promo Best Practices</h3>
 
@@ -483,7 +483,7 @@ export default function SupportHelpCenterPolicyPage() {
 
         <p>For event editing or update assistance:</p>
 
-        <p>Email: jgsupport@judahglobal.com</p>
+        <p>Email: jgsupport@judahglobal.org</p>
 
         <h3>Support Communication Standards</h3>
 
