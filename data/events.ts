@@ -7,19 +7,27 @@ export const majorEvents = [
     badge: "MAJOR EVENT",
   },
   {
-    title: "Full Gospel Kingdom Church",
+    title: "FGKC Sunday Worship Live",
     date: "Jun 7 & Jun 14 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
   },
     {
-    title: "Kingdom Wealth Building",
+    title: "Kingdom Wealth Basic Stock Training",
     date: "May 17 - Jun 30 2026",
     location: "Virtual, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
   },
+    {
+    title: "FGKC Men Only: A Cup & A Conversation",
+    date: "Jun 20 & Jul 18 2026",
+    location: "Newport News, VA, USA",
+    image: "/images/events/fallback-major-2.png",
+    badge: "MAJOR EVENT",
+  },
+
 ];
 
 export const featuredEvents = [
