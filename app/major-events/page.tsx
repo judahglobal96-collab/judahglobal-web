@@ -150,7 +150,7 @@ export default function MajorEventsPage() {
                     </p>
 
                     <a
-                      href={`/events/${event.slug}`}
+                      href="/signup"
                       className="mt-6 inline-block rounded-full border border-[#C8A64B] px-5 py-2 text-sm font-semibold text-[#C8A64B] transition hover:bg-[#C8A64B] hover:text-black"
                     >
                       View Event
