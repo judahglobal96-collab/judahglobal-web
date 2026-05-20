@@ -111,7 +111,7 @@ export default function MajorEventsPage() {
           <div className="mb-10 text-center">
             <h2 className="text-3xl font-bold">Upcoming Major Events</h2>
             <p className="mt-3 text-neutral-400">
-              Featured gatherings with premium visibility across Judah Global.
+              Featured events with premium visibility across Judah Global.
             </p>
           </div>
 
@@ -215,28 +215,28 @@ const majorEvents = [
   {
     id: 1,
     title: "Kingdom Leadership Summit",
-    date: "June 21, 2026 · 7:00 PM",
+    date: "Oct 7-8 2026 · 7:00 PM",
     location: "Atlanta, Georgia, USA",
     sponsor: "Kingdom Leaders Network",
     slug: "kingdom-leadership-summit",
-    image: "/images/events/major-event-1.jpg",
+    image: "/images/events/fallback-major-1.png",
   },
   {
     id: 2,
-    title: "Citywide Night of Worship",
-    date: "July 12, 2026 · 6:30 PM",
+    title: "Made to Last Couples Conference",
+    date: "Aug 28 - 30, 2026",
     location: "Dallas, Texas, USA",
-    sponsor: "United Worship Collective",
-    slug: "citywide-night-of-worship",
-    image: "/images/events/major-event-2.jpg",
+    sponsor: "Concord Church",
+    slug: "couples-conference",
+    image: "/images/events/fallback-major-1.png",
   },
   {
     id: 3,
-    title: "Global Revival Gathering",
-    date: "August 8, 2026 · 5:00 PM",
+    title: "Love Me Respect Me Marriage Retreat",
+    date: "September 24-27, 2026",
     location: "Orlando, Florida, USA",
-    sponsor: "Revival Fire Ministries",
-    slug: "global-revival-gathering",
-    image: "/images/events/major-event-3.jpg",
+    sponsor: "Majestic Ministries",
+    slug: "marriage-retreat-ministry",
+    image: "/images/events/fallback-major-1.png",
   },
 ];

@@ -61,7 +61,7 @@ export default function EventsPage() {
                   Virtual Event
                 </p>
                 <h3 className="mt-1 text-sm font-extrabold">
-                  Basic Stock Training
+                  Kingdom Wealth Basic Stock Training
                 </h3>
                 <p className="text-xs text-white/75">United States / Online</p>
               </div>
