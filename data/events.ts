@@ -13,6 +13,13 @@ export const majorEvents = [
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
   },
+    {
+    title: "Kingdom Wealth Building",
+    date: "May 17 - Jun 30 2026",
+    location: "Virtual, USA",
+    image: "/images/events/fallback-major-2.png",
+    badge: "MAJOR EVENT",
+  },
 ];
 
 export const featuredEvents = [
