@@ -1,15 +1,15 @@
 export const majorEvents = [
   {
-    title: "Global Worship Conference",
-    date: "MAY 24 – 26, 2025",
-    location: "Nashville, USA",
+    title: "Elevation Unleashed",
+    date: "Oct 02 - 05 – 26, 2026",
+    location: "Brooklyn, NY USA",
     image: "/images/events/fallback-major-1.png",
     badge: "MAJOR EVENT",
   },
   {
-    title: "Kingdom Business Summit",
-    date: "JUN 10 – 12, 2025",
-    location: "Atlanta, USA",
+    title: "Full Gospel Kingdom Church",
+    date: "Jun 7 & Jun 14 2026",
+    location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
   },
