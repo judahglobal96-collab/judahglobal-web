@@ -1,7 +1,7 @@
 export const majorEvents = [
   {
-    title: "Elevation Unleashed",
-    date: "Oct 02 - 05 – 26, 2026",
+    title: "Elevation Unleashed Conference",
+    date: "Oct 02 - Oct 05, 2026",
     location: "Brooklyn, NY USA",
     image: "/images/events/fallback-major-1.png",
     badge: "MAJOR EVENT",
