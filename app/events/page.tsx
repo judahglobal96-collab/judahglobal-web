@@ -41,7 +41,7 @@ export default function EventsPage() {
             <div className="w-[350px] rounded-xl bg-gradient-to-b from-white to-[#3B3B3B] p-3 shadow-2xl">
               <div className="mb-3">
                 <span className="rounded bg-[#C4A133] px-2 py-1 text-[10px] font-extrabold uppercase tracking-wide text-white">
-                  Live / Upcoming
+                  Live Weekly
                 </span>
               </div>
 
@@ -49,7 +49,7 @@ export default function EventsPage() {
 
                 <img
                     src="/basic-stock-training.jpg"
-                    alt="Basic Stock Training"
+                    alt="Kingdom wealth Basic Stock Training"
                     className="h-full w-full object-cover transition duration-500 hover:scale-105"                />
 
                 {/* Optional subtle overlay for readability */}

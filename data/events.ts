@@ -16,7 +16,7 @@ export const majorEvents = [
     {
     title: "Kingdom Wealth Basic Stock Training",
     date: "May 17 - Jun 30 2026",
-    location: "Virtual, USA",
+    location: "Virtual Podcast, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
   },
