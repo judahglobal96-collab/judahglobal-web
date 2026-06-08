@@ -28,7 +28,7 @@ export default function MajorEventsSection() {
         {majorEvents.map((event) => (
           <Link
           key={event.title}
-          href={event.href ?? "https://app.judahglobal.org/events"}        >
+          href={event.href ?? "https://app.judahglobal.org/event"}        >
           <EventCard {...event} />
         </Link>
 

@@ -5,7 +5,7 @@ export const majorEvents = [
     location: "Brooklyn, NY USA",
     image: "/images/events/fallback-major-1.png",
     badge: "MAJOR EVENT",
-    href: "https://judah-global-frontend-production.up.railway.app/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
+    href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
     title: "FGKC Sunday Worship Live",
@@ -13,7 +13,7 @@ export const majorEvents = [
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
-    href: "https://judah-global-frontend-production.up.railway.app/event/7080e424-e69b-4f69-bb51-617db24bef63"
+    href: "https://app.judahglobal.org/event/7080e424-e69b-4f69-bb51-617db24bef63"
   },
     {
     title: "Kingdom Wealth Basic Stock Training",
@@ -28,7 +28,7 @@ export const majorEvents = [
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
-    href: "https://judah-global-frontend-production.up.railway.app/event/635275a9-c1e8-4bf2-bcda-85ed19617428"
+    href: "https://app.judahglobal.org/event/635275a9-c1e8-4bf2-bcda-85ed19617428"
   },
 
 ];
