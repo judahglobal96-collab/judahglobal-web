@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { majorEvents } from "@/data/events";
 import EventCard from "./EventCard";
 
@@ -25,7 +26,12 @@ export default function MajorEventsSection() {
 
       <div className="flex gap-6 overflow-x-auto pb-4">
         {majorEvents.map((event) => (
-          <EventCard key={event.title} {...event} />
+          <Link
+          key={event.title}
+          href={event.href ?? "https://app.judahglobal.org/events"}        >
+          <EventCard {...event} />
+        </Link>
+
         ))}
       </div>
     </section>
