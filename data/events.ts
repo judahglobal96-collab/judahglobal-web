@@ -13,7 +13,7 @@ export const majorEvents = [
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
-    href: "https://app.judahglobal.org/event/7080e424-e69b-4f69-bb51-617db24bef63"
+    href: "https://judah-global-frontend-production.up.railway.app/event/7080e424-e69b-4f69-bb51-617db24bef63"
   },
     {
     title: "Kingdom Wealth Basic Stock Training",
