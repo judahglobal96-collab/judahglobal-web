@@ -1,22 +1,15 @@
 import { notFound, redirect } from "next/navigation";
 
-type SlugLookupResponse = {
-  success: boolean;
-  event?: {
-    id?: string;
-    event_id?: string;
-    slug?: string;
-    title?: string;
-  };
-  message?: string;
+type PageProps = {
+  params: Promise<{
+    slug: string;
+  }>;
 };
 
 export default async function EventShortLinkPage({
   params,
-}: {
-  params: { slug: string };
-}) {
-  const { slug } = params;
+}: PageProps) {
+  const { slug } = await params;
 
   const res = await fetch(
     `https://judahglobal-api-production-b308.up.railway.app/api/v1/public/events/slug/${encodeURIComponent(
@@ -31,13 +24,17 @@ export default async function EventShortLinkPage({
     notFound();
   }
 
-  const data = (await res.json()) as SlugLookupResponse;
+  const data = await res.json();
 
-  const eventId = data.event?.event_id || data.event?.id;
+  const eventId =
+    data?.event?.event_id ||
+    data?.event?.id;
 
-  if (!data.success || !eventId) {
+  if (!data?.success || !eventId) {
     notFound();
   }
 
-  redirect(`https://app.judahglobal.org/event/${eventId}`);
+  redirect(
+    `https://app.judahglobal.org/event/${eventId}`
+  );
 }
