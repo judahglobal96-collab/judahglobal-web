@@ -8,27 +8,28 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
-    title: "FGKC Sunday Worship Live",
-    date: "Jun 7 & Jun 14 2026",
+    title: "FGKC Holy Conovation - In Pursuit of Purpose",
+    date: "Jul 22 - Jul 24 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
-    href: "https://app.judahglobal.org/event/7080e424-e69b-4f69-bb51-617db24bef63"
+    href: "https://app.judahglobal.org/event/908f2528-f3db-434a-9d2b-dd6e76102a2c"
   },
     {
-    title: "Kingdom Wealth Basic Stock Training",
-    date: "May 17 - Jun 30 2026",
-    location: "Virtual Podcast, USA",
+    title: "Vision to Victory: Women's Empowerment Brunch",
+    date: "Aug 8, 2026",
+    location: "EIGOPDT Church, Brooklyn, NY",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
+    href: "https://app.judahglobal.org/event/818a6d78-52cb-43c3-be35-ab5016386942"
   },
     {
     title: "FGKC Men Only: A Cup & A Conversation",
-    date: "Jun 20 & Jul 18 2026",
+    date: "Jul 18 & Aug  15 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "MAJOR EVENT",
-    href: "https://app.judahglobal.org/event/635275a9-c1e8-4bf2-bcda-85ed19617428"
+    href: "https://app.judahglobal.org/event/7f1dc805-fee6-4fd0-a7f6-f1d63deb886c"
   },
 
 ];
