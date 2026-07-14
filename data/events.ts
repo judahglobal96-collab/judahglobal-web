@@ -8,7 +8,7 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
-    title: "FGKC Holy Conovation - In Pursuit of Purpose",
+    title: "FGKC Holy Convocation - In Pursuit of Purpose",
     date: "Jul 22 - Jul 24 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
