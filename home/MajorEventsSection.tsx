@@ -8,7 +8,7 @@ export default function MajorEventsSection() {
       <div className="mb-6 flex items-end justify-between">
         <div>
           <h2 className="text-4xl font-extrabold tracking-tight text-[#0E1B34]">
-            Major Events ☆
+             One trusted destination for the global faith community ☆
           </h2>
           <p className="mt-1 text-base text-gray-500">
             High-impact faith-based events happening Now!
