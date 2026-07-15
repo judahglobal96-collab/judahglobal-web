@@ -51,7 +51,7 @@ export default function FeaturedEventsSection() {
               href="/signup"
               className="rounded-xl bg-[#0E1B34] px-7 py-4 text-sm font-extrabold text-white shadow-xl transition hover:bg-[#162847]"
             >
-              Create a Free Account
+              Click to Enter Judah Global
             </Link>
 
           </div>

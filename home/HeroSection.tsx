@@ -44,7 +44,7 @@ export default function HeroSection() {
               href="/signup"
               className="inline-flex items-center justify-center rounded-2xl bg-[#C7A24A] px-10 py-5 text-lg font-bold text-black shadow-2xl transition duration-300 hover:bg-[#D6B15A]"
             >
-              Create a Free Account
+              Click to Enter Judah Global
             </Link>
 
             <p className="mt-4 max-w-[520px] text-sm leading-7 text-white/70">
