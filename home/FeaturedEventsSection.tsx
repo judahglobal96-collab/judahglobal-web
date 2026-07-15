@@ -3,17 +3,15 @@ import Link from "next/link";
 export default function FeaturedEventsSection() {
   const benefits = [
     "Submit and manage events from one private dashboard",
-    "Campaign Builder tools for long-term event planning and regional promotion",
-    "Organization Owner has full control over profile, billing, events, media, and team access",
-    "Priority alerts delivered directly to the organization dashboard",
-    "Reactivate expired events faster to save time on repeat submissions",
-    "Set apart from single-event sponsors with dedicated organization access",
-    "Reduced cost across all promotional placement types",
-    "Reduced pricing for recurring events, including weekly services and ongoing gatherings",
+    "Proprietary Campaign Builder ad placement tool",
+    "Discover those hard to find events",
+    "Global access in 4 Regions (USA, Canada, UK, Africa)",
+    "Additional Global regions added later",
+    "Plan for maximum visibility to a targeted audience",
+    "Centralized platform giving you full control",
+    "Recurring events made easy",
     "Build regional presence across the Judah Global network",
-    "Track approved events and platform visibility",
-    "Upload organization logos, flyers, and media assets",
-    "Annual Organization Access Subscription — $299/year",
+    "No more searching multiple social media platforms to find faith based events",
   ];
 
   return (
@@ -21,17 +19,15 @@ export default function FeaturedEventsSection() {
       <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
         <div>
           <p className="text-sm font-extrabold uppercase tracking-[0.28em] text-[#C7A24A]">
-            Organization Access
+            What Makes Judah Global Unique
           </p>
 
           <h2 className="mt-3 text-4xl font-extrabold tracking-tight text-[#0E1B34] md:text-5xl">
-            Organization Profile Benefits
+            A Global Vision Built for a Global Audience
           </h2>
 
           <p className="mt-4 max-w-xl text-lg leading-8 text-gray-600">
-            Give your ministry, church, business, or organization a private
-            command center for event growth, promotion, visibility, and
-            community engagement.
+            Check out these benefits
           </p>
 
           <ul className="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
