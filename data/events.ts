@@ -4,7 +4,7 @@ export const majorEvents = [
     date: "Aug 29 - Aug 30, 2026",
     location: "Brooklyn, NY USA",
     image: "/images/events/fallback-major-1.png",
-    badge: "MAJOR EVENT",
+    badge: "Tredning",
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
@@ -12,7 +12,7 @@ export const majorEvents = [
     date: "Jul 22 - Jul 24 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
-    badge: "MAJOR EVENT",
+    badge: "Trending",
     href: "https://app.judahglobal.org/event/908f2528-f3db-434a-9d2b-dd6e76102a2c"
   },
     {
@@ -20,7 +20,7 @@ export const majorEvents = [
     date: "Aug 8, 2026",
     location: "EIGOPDT Church, Brooklyn, NY",
     image: "/images/events/fallback-major-2.png",
-    badge: "MAJOR EVENT",
+    badge: "Featured",
     href: "https://app.judahglobal.org/event/818a6d78-52cb-43c3-be35-ab5016386942"
   },
     {
@@ -28,7 +28,7 @@ export const majorEvents = [
     date: "Jul 18 & Aug  15 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
-    badge: "MAJOR EVENT",
+    badge: "Featured",
     href: "https://app.judahglobal.org/event/7f1dc805-fee6-4fd0-a7f6-f1d63deb886c"
   },
 
