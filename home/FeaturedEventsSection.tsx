@@ -20,7 +20,7 @@ export default function FeaturedEventsSection() {
             What Makes Judah Global Unique
           </p>
 
-          <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-[#0E1B34] md:text-5xl">
+          <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-[#0E1B34] md:text-3xl">
             Why Thousands Are Joining Judah Global
           </h2>
 
