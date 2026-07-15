@@ -11,7 +11,7 @@ export default function MajorEventsSection() {
             Major Events ☆
           </h2>
           <p className="mt-1 text-base text-gray-500">
-            High-impact faith-based events happening around the world.
+            High-impact faith-based events happening Now!
           </p>
         </div>
 
@@ -19,7 +19,7 @@ export default function MajorEventsSection() {
           href="/signup"
           className="text-sm font-extrabold text-[#0E1B34]"
         >
-          View All Major Events →
+          Click to Enter Judah Global →
         </a>
         
       </div>

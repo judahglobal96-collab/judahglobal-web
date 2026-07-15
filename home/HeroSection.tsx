@@ -28,14 +28,12 @@ export default function HeroSection() {
           </h1>
 
           <h2 className="mt-7 max-w-[650px] text-[28px] font-extrabold leading-tight text-white">
-            Share the experience beyond the event itself.
+
           </h2>
 
           <p className="mt-6 max-w-[660px] text-[19px] leading-8 text-white/90">
-            Encourage your congregation and supporters to create a Judah
-            Global account to discover meaningful faith-centered events
-            happening across cities, regions and nations. Together we can
-            impact the WORLD.
+            This is more than an event platform. It's about reconnecting the global
+            faith community - one event, one ministry, and one event at a time.
           </p>
 
           {/* CTA Button */}
@@ -48,9 +46,7 @@ export default function HeroSection() {
             </Link>
 
             <p className="mt-4 max-w-[520px] text-sm leading-7 text-white/70">
-              Join Judah Global to discover faith-centered events, connect
-              with organizations, and experience gatherings happening across
-              cities, regions, and nations.
+            
             </p>
           </div>
         </div>
