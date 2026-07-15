@@ -2,16 +2,14 @@ import Link from "next/link";
 
 export default function FeaturedEventsSection() {
   const benefits = [
-    "Submit and manage events from one private dashboard",
+    "Reach more people",
     "Proprietary Campaign Builder ad placement tool",
-    "Discover those hard to find events",
-    "Global access in 4 Regions (USA, Canada, UK, Africa)",
-    "Additional Global regions added later",
-    "Plan for maximum visibility to a targeted audience",
+    "Manage every event in one place",
+    "Promote across multiple countries",
+    "Build your organization's digital presence",
+    "Spend less time posting to multiple platforms",
     "Centralized platform giving you full control",
     "Recurring events made easy",
-    "Build regional presence across the Judah Global network",
-    "No more searching multiple social media platforms to find faith based events",
   ];
 
   return (
@@ -23,11 +21,11 @@ export default function FeaturedEventsSection() {
           </p>
 
           <h2 className="mt-3 text-4xl font-extrabold tracking-tight text-[#0E1B34] md:text-5xl">
-            A Global Vision Built for a Global Audience
+            Why Thousands Are Joining Judah Global
           </h2>
 
           <p className="mt-4 max-w-xl text-lg leading-8 text-gray-600">
-            Check out these benefits
+            
           </p>
 
           <ul className="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
