@@ -1,18 +1,18 @@
 export default function TrustStats() {
   const stats = [
     {
-      title: "Global Reach",
+      title: "Discover Events Across Four Countries",
       subtitle: "USA, Canada, United Kingom, Africa",
       icon: "🌍",
     },
     {
       title: "Community Driven",
-      subtitle: "Built for people and purpose",
+      subtitle: "Built to reconnect the global faith community",
       icon: "👥",
     },
     {
-      title: "Real-Time Discovery",
-      subtitle: "Events updated every day",
+      title: "Maximum Visibility & Discovery",
+      subtitle: "Events added regularly",
       icon: "⚡",
     },
   ];
