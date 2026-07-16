@@ -8,7 +8,7 @@ export default function AboutPage() {
           </p>
 
           <h1 className="text-4xl md:text-6xl font-semibold leading-tight mb-8">
-            Connecting people to meaningful events around the world.
+            It's about reconnecting the Global Faith Community around the world.
           </h1>
 
           <p className="text-lg md:text-xl text-neutral-300 max-w-3xl leading-relaxed">
@@ -61,10 +61,12 @@ export default function AboutPage() {
             </h2>
 
             <p className="text-neutral-700 leading-relaxed mb-5">
-              Judah Global was created to make meaningful gatherings more visible
-              and accessible. Whether someone is searching for a weekly service,
-              conference, community gathering, or major event, our platform helps
-              them discover what is happening near them and around the world.
+              Judah Global was built with a global vision for a global audience.
+              Today, there are more churches, ministries, conferences, concerts, 
+              bible schools, Podcast, community gatherings, etc., than ever before. 
+              The challenge is that these events are scattered across the internet
+              and social media, so we built one trusted destination where the global 
+              faith community can discover what's happening across the Kingdom.
             </p>
 
             <p className="text-neutral-700 leading-relaxed">
