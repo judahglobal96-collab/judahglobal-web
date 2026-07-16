@@ -2,12 +2,11 @@ export default function AboutPage() {
   const visionItems = [
     "Faith-Based Organizations",
     "Ministries",
-    "Churches",
     "Conferences",
     "Concerts",
-    "Bible Studies",
     "Bible Schools",
-    "Revivals",
+    "Podcast",
+    "Retreats",
     "Community Gatherings",
     "Faith-Based Events",
   ];
@@ -49,7 +48,7 @@ export default function AboutPage() {
             </h2>
 
             <p className="mb-10 max-w-3xl leading-relaxed text-neutral-700">
-              Judah Global is founded with a strong faith-centered identity
+              Judah Global is founded with a inter faith-centered identity
               while recognizing the global reality that meaningful gatherings
               exist across cultures, communities, and beliefs.
             </p>
