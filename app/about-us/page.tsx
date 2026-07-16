@@ -12,10 +12,9 @@ export default function AboutPage() {
           </h1>
 
           <p className="text-lg md:text-xl text-neutral-300 max-w-3xl leading-relaxed">
-            Judah Global is a global event discovery and promotion platform built
-            to help people find trusted faith-based, community, cultural, and
-            major events with clarity, purpose, and ease.
-
+            We are passionate about building the technology so organizations can reach the  
+            people and users can discover events. Our goal is to make it easier to manage events. 
+            We build the technology so you don't have to.
           </p>
         </div>
       </section>
