@@ -8,13 +8,14 @@ export default function AboutPage() {
           </p>
 
           <h1 className="text-4xl md:text-6xl font-semibold leading-tight mb-8">
-            It's about reconnecting the Global Faith Community around the world.
+            Reconnecting the Global Faith Community.
           </h1>
 
           <p className="text-lg md:text-xl text-neutral-300 max-w-3xl leading-relaxed">
-            We are passionate about building the technology so organizations can reach the  
-            people and users can discover events. Our goal is to make it easier to manage events. 
-            We build the technology so you don't have to.
+            Judah Global exists to help people discover Kingdom experiences while giving
+            organizations the tools to reach more people. We build the technology that brings
+            the global faith community together - so ministries and organizations can focus on
+            their mission and people can focus on discovering what's happening across the Kingdom.
           </p>
         </div>
       </section>
@@ -37,16 +38,17 @@ export default function AboutPage() {
           </p>
 
           <p className="text-neutral-700 leading-relaxed mb-5">
-            Our platform is built to support the discovery of events that bring
-            people together—whether through worship, service, learning, culture,
-            or community impact—without limiting visibility to a single expression
-            of faith.
+            Imagine a world where every faith based organization...
+            every ministry...
+            every conference...
+            every concert...
+            every Bible school...
+            every faith event...
+            can be discovered from one trusted destination.
           </p>
 
           <p className="text-neutral-700 leading-relaxed">
-            We believe respect, clarity, and structure create space for people to
-            engage with what matters to them most, while honoring the diversity of
-            gatherings happening around the world.
+            That's the future we're building.
           </p>
         </div>
       </div>
@@ -61,11 +63,9 @@ export default function AboutPage() {
 
             <p className="text-neutral-700 leading-relaxed mb-5">
               Judah Global was built with a global vision for a global audience.
-              Today, there are more churches, ministries, conferences, concerts, 
-              bible schools, Podcast, community gatherings, etc., than ever before. 
-              The challenge is that these events are scattered across the internet
-              and social media, so we built one trusted destination where the global 
-              faith community can discover what's happening across the Kingdom.
+              Today, there are more opportunities than ever to connect through churches,  
+              ministries, conferences, concerts, bible schools, Podcast, community gatherings. 
+              The challenge is't a lack of events - it's knowing where to find them.
             </p>
 
             <p className="text-neutral-700 leading-relaxed">
@@ -78,9 +78,8 @@ export default function AboutPage() {
           <div className="bg-neutral-50 border border-neutral-200 rounded-2xl p-8">
             <h3 className="text-xl font-semibold mb-4">Our Mission</h3>
             <p className="text-neutral-700 leading-relaxed">
-              To create a trusted global platform where individuals,
-              organizations, and communities can publish, promote, and discover
-              meaningful events with confidence.
+              To create one destination where the global faith community can discover, share,
+              and promote meaningful Kingdom experiences. 
             </p>
           </div>
         </div>
