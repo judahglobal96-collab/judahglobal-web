@@ -8,11 +8,11 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
-    title: "Kingdom Fest",
+    title: "Kingdom Fest - Light Up the Night",
     date: "Aug 8, 2026",
-    location: "Kissimmee, FL, USA",
+    location: "Revival City Church, Kissimmee, FL, USA",
     image: "/images/events/fallback-major-2.png",
-    badge: "Trending",
+    badge: "New Event",
     href: "https://app.judahglobal.org/event/31b5f5b6-b0cb-4af3-a6ab-a8a61b560c80"
   },
     {
@@ -25,7 +25,7 @@ export const majorEvents = [
   },
     {
     title: "FGKC Men Only: A Cup & A Conversation",
-    date: "Jul 18 & Aug  15 2026",
+    date: "Aug  15, 2026",
     location: "Newport News, VA, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Featured",
