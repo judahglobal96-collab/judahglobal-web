@@ -8,12 +8,12 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
-    title: "FGKC Holy Convocation - In Pursuit of Purpose",
-    date: "Jul 22 - Jul 24 2026",
-    location: "Newport News, VA, USA",
+    title: "Kingdom Fest",
+    date: "Aug 8, 2026",
+    location: "Kissimmee, FL, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Trending",
-    href: "https://app.judahglobal.org/event/908f2528-f3db-434a-9d2b-dd6e76102a2c"
+    href: "https://app.judahglobal.org/event/31b5f5b6-b0cb-4af3-a6ab-a8a61b560c80"
   },
     {
     title: "Vision to Victory: Women's Empowerment Brunch",
