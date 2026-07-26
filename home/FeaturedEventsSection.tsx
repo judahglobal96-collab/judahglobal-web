@@ -13,20 +13,17 @@ export default function FeaturedEventsSection() {
   ];
 
   return (
-    <section className="mx-auto max-w-[1440px] px-8 pt-8 pb-20">
+    <section className="mx-auto max-w-[1440px] px-6 pb-20 pt-8 sm:px-8">
       <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
+        {/* Left-side content */}
         <div>
           <p className="text-sm font-extrabold uppercase tracking-[0.28em] text-[#C7A24A]">
             What Makes Judah Global Unique
           </p>
 
-          <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-[#0E1B34] md:text-3xl">
+          <h2 className="mt-3 text-3xl font-extrabold tracking-tight text-[#0E1B34] md:text-4xl">
             Why Thousands Are Joining Judah Global
           </h2>
-
-          <p className="mt-4 max-w-xl text-lg leading-8 text-gray-600">
-
-          </p>
 
           <ul className="mt-7 grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
             {benefits.map((benefit) => (
@@ -34,7 +31,11 @@ export default function FeaturedEventsSection() {
                 key={benefit}
                 className="flex gap-3 text-sm font-extrabold leading-6 text-[#0E1B34]"
               >
-                <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-[#C7A24A]" />
+                <span
+                  aria-hidden="true"
+                  className="mt-2 h-2 w-2 shrink-0 rounded-full bg-[#C7A24A]"
+                />
+
                 <span>{benefit}</span>
               </li>
             ))}
@@ -43,53 +44,39 @@ export default function FeaturedEventsSection() {
           <div className="mt-9 flex flex-wrap gap-4">
             <Link
               href="/signup"
-              className="rounded-xl bg-[#0E1B34] px-7 py-4 text-sm font-extrabold text-white shadow-xl transition hover:bg-[#162847]"
+              className="rounded-xl bg-[#0E1B34] px-7 py-4 text-sm font-extrabold text-white shadow-xl transition hover:bg-[#162847] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C7A24A] focus-visible:ring-offset-2"
             >
               Click to Enter Judah Global
             </Link>
-
           </div>
         </div>
 
-<div className="relative">
-  <div className="absolute -inset-5 rounded-[2.25rem] bg-[#C7A24A]/20 blur-2xl" />
+        {/* Right-side featured event poster */}
+        <div className="relative mt-8 flex justify-center lg:mt-0 lg:justify-end">
+          {/* Decorative gold glow */}
+          <div
+            aria-hidden="true"
+            className="absolute inset-5 rounded-[2rem] bg-[#C7A24A]/20 blur-2xl"
+          />
 
-  <div className="relative overflow-hidden rounded-[2rem] border border-[#C7A24A]/30 bg-[#111318] shadow-[0_30px_80px_rgba(0,0,0,0.35)]">
-    <div className="flex items-center justify-between border-b border-white/10 bg-black/40 px-5 py-3">
-      <div className="flex items-center gap-2">
-        <span className="h-3 w-3 rounded-full bg-white/20" />
-        <span className="h-3 w-3 rounded-full bg-white/20" />
-        <span className="h-3 w-3 rounded-full bg-white/20" />
+          <div className="relative w-full max-w-[500px] overflow-hidden rounded-[2rem] border border-[#C7A24A]/30 bg-[#111318] shadow-[0_30px_80px_rgba(0,0,0,0.35)] transition-all duration-300 hover:scale-[1.02] hover:shadow-[0_40px_100px_rgba(199,162,74,0.30)]">
+            <div className="aspect-[9/16]">
+              <img
+                src="/images/gospel-vegas-residency.png"
+                alt="Legends of Gospel Vegas Residency featuring The Clark Sisters, Fred Hammond, and Deitrick Haddon"
+                className="h-full w-full object-cover"
+                loading="lazy"
+              />
+            </div>
+          </div>
+        </div>
       </div>
 
-      <span className="text-xs font-extrabold uppercase tracking-[0.28em] text-[#C7A24A]">
-        Live Organization Dashboard
-      </span>
-    </div>
-
-    <div className="relative">
-      <img
-        src="/images/org-dashboard.jpg"
-        alt="Judah Global organization dashboard"
-        className="h-auto w-full object-cover"
+      {/* Bottom shadow */}
+      <div
+        aria-hidden="true"
+        className="mx-auto mt-5 h-6 w-[78%] rounded-full bg-black/20 blur-xl"
       />
-
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-transparent via-transparent to-black/20" />
-
-      <div className="pointer-events-none absolute bottom-5 right-6 text-right">
-        <p className="text-2xl font-extrabold uppercase tracking-[0.18em] text-white/10">
-          JUDAH GLOBAL
-        </p>
-        <p className="mt-1 text-xs font-bold uppercase tracking-[0.28em] text-[#C7A24A]/20">
-          Organization Access
-        </p>
-      </div>
-    </div>
-  </div>
-
-    <div className="mx-auto mt-5 h-6 w-[78%] rounded-full bg-black/20 blur-xl" />
-  </div>
-</div>
     </section>
   );
 }
