@@ -14,8 +14,8 @@ export default function FeaturedEventsSection() {
 
   return (
     <section className="mx-auto max-w-[1440px] px-6 pb-20 pt-8 sm:px-8">
-      <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-        {/* Left-side content */}
+        <div className="grid gap-16 xl:gap-24 lg:grid-cols-[1fr_auto] lg:items-center">
+          {/* Left-side content */}
         <div>
           <p className="text-sm font-extrabold uppercase tracking-[0.28em] text-[#C7A24A]">
             What Makes Judah Global Unique
@@ -56,10 +56,10 @@ export default function FeaturedEventsSection() {
           {/* Decorative gold glow */}
           <div
             aria-hidden="true"
-            className="absolute inset-5 rounded-[2rem] bg-[#C7A24A]/20 blur-2xl"
+            className="absolute -inset-2 rounded-[2rem] bg-[#C7A24A]/15 blur-lg"
           />
 
-          <div className="relative w-full max-w-[500px] overflow-hidden rounded-[2rem] border border-[#C7A24A]/30 bg-[#111318] shadow-[0_30px_80px_rgba(0,0,0,0.35)] transition-all duration-300 hover:scale-[1.02] hover:shadow-[0_40px_100px_rgba(199,162,74,0.30)]">
+          <div className="relative w-full max-w-[300px] xl:max-w-[420px] overflow-hidden rounded-[28px] border border-white/10 bg-[#111318] shadow-[0_18px_45px_rgba(0,0,0,.28)] transition-all duration-300 hover:scale-[1.02] hover:shadow-[0_40px_100px_rgba(199,162,74,0.30)]">
             <div className="aspect-[9/16]">
               <img
                 src="/images/gospel-vegas-residency.png"
