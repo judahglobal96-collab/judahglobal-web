@@ -71,8 +71,8 @@ export default function FeaturedEventsSection() {
                 aria-label="Judah Global Women's Empowerment event discovery video"
               >
                 <source
-                  src="/videos/jg-womens-empowerment.mov"
-                  type="video/quicktime"
+                  src="/videos/jg-womens-empowerment.mp4"
+                  type="video/mp4"
                 />
                 Your browser does not support video playback.
               </video>
