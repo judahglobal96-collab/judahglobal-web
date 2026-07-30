@@ -61,12 +61,21 @@ export default function FeaturedEventsSection() {
 
           <div className="relative w-full max-w-[300px] xl:max-w-[420px] overflow-hidden rounded-[28px] border border-white/10 bg-[#111318] shadow-[0_18px_45px_rgba(0,0,0,.28)] transition-all duration-300 hover:scale-[1.02] hover:shadow-[0_40px_100px_rgba(199,162,74,0.30)]">
             <div className="aspect-[9/16]">
-              <img
-                src="/images/gospel-vegas-residency.png"
-                alt="Legends of Gospel Vegas Residency featuring The Clark Sisters, Fred Hammond, and Deitrick Haddon"
+              <video
                 className="h-full w-full object-cover"
-                loading="lazy"
-              />
+                autoPlay
+                muted
+                loop
+                playsInline
+                preload="metadata"
+                aria-label="Judah Global Women's Empowerment event discovery video"
+              >
+                <source
+                  src="/videos/jg-womens-empowerment.mp4"
+                  type="video/mp4"
+                />
+                Your browser does not support video playback.
+              </video>
             </div>
           </div>
         </div>
