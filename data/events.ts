@@ -24,12 +24,12 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/818a6d78-52cb-43c3-be35-ab5016386942"
   },
     {
-    title: "FGKC Men Only: A Cup & A Conversation",
+    title: "Hezekiah Walker Choir Fest",
     date: "Aug  15, 2026",
-    location: "Newport News, VA, USA",
+    location: "Charlotte, NC, USA",
     image: "/images/events/fallback-major-2.png",
-    badge: "Featured",
-    href: "https://app.judahglobal.org/event/7f1dc805-fee6-4fd0-a7f6-f1d63deb886c"
+    badge: "Major Event",
+    href: "https://app.judahglobal.org/event/f45b0b2e-04f5-4801-ba0c-8092cb95bb2a"
   },
 
 ];
