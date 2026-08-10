@@ -16,7 +16,7 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/8db2c490-752d-47f6-97c3-01bd3eae3cd5"
   },
     {
-    title: "Travis Mallonpmy: Urban Worship Collective",
+    title: "Travis Malloy: Urban Worship Collective",
     date: "Aug 22, 2026",
     location: "Bethesda Theater, Bethesda, MD",
     image: "/images/events/fallback-major-2.png",
