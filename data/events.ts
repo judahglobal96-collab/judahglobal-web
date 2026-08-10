@@ -8,20 +8,20 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
   },
   {
-    title: "Kingdom Fest - Light Up the Night",
-    date: "Aug 8, 2026",
-    location: "Revival City Church, Kissimmee, FL, USA",
+    title: "Made to Last Couples Conference",
+    date: "Aug 28 - 30, 2026",
+    location: "Concord Church, Dallas, TX, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "New Event",
-    href: "https://app.judahglobal.org/event/31b5f5b6-b0cb-4af3-a6ab-a8a61b560c80"
+    href: "https://app.judahglobal.org/event/8db2c490-752d-47f6-97c3-01bd3eae3cd5"
   },
     {
-    title: "Vision to Victory: Women's Empowerment Brunch",
-    date: "Aug 8, 2026",
-    location: "EIGOPDT Church, Brooklyn, NY",
+    title: "Travis Mally: Urban Worship Collective",
+    date: "Aug 22, 2026",
+    location: "Bethesda Theater",
     image: "/images/events/fallback-major-2.png",
     badge: "Featured",
-    href: "https://app.judahglobal.org/event/818a6d78-52cb-43c3-be35-ab5016386942"
+    href: "https://app.judahglobal.org/event/d667ca14-a599-425b-9ab8-d6a4c1281122"
   },
     {
     title: "Hezekiah Walker Choir Fest",
