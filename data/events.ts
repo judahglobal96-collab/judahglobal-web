@@ -24,13 +24,12 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/d667ca14-a599-425b-9ab8-d6a4c1281122"
   },
     {
-    title: "Hezekiah Walker Choir Fest",
-    date: "Aug  15, 2026",
-    location: "Charlotte, NC, USA",
+    title: "The Chosen Gathering Honor the Oil",
+    date: "Sep 3-5 2026",
+    location: "Orlando, FL, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Major Event",
-    href: "https://app.judahglobal.org/event/f45b0b2e-04f5-4801-ba0c-8092cb95bb2a"
-  },
+    href: "https://app.judahglobal.org/event/f4ab7059-019f-4833-8dba-b1fd68decf6d"
 
 ];
 
