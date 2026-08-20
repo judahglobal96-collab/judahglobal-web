@@ -30,7 +30,7 @@ export const majorEvents = [
     image: "/images/events/fallback-major-2.png",
     badge: "Major Event",
     href: "https://app.judahglobal.org/event/f4ab7059-019f-4833-8dba-b1fd68decf6d"
-
+    }
 ];
 
 export const featuredEvents = [
