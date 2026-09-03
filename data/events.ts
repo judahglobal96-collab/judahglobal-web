@@ -1,27 +1,27 @@
 export const majorEvents = [
   {
-    title: "Elevation Unleashed Conference",
-    date: "Aug 29 - Aug 30, 2026",
-    location: "Brooklyn, NY USA",
+    title: "Shift Conference",
+    date: "Sep 25 - Sep 28, 2026",
+    location: "Carrollton, TX USA",
     image: "/images/events/fallback-major-1.png",
-    badge: "Tredning",
-    href: "https://app.judahglobal.org/event/3a497776-b2c5-44b7-bc8c-c90a8b15163e"
+    badge: "Major Event",
+    href: "https://app.judahglobal.org/event/816f4280-f4cf-4133-a4cc-2c454d26706e"
   },
   {
-    title: "Made to Last Couples Conference",
-    date: "Aug 28 - 30, 2026",
-    location: "Concord Church, Dallas, TX, USA",
+    title: "53rd Annual Wilt Thou Be Made Whole Conference",
+    date: "Oct 5 - Oct 9, 2026",
+    location: "MT. Calvary Church, Raleigh, NC USA",
     image: "/images/events/fallback-major-2.png",
-    badge: "New Event",
-    href: "https://app.judahglobal.org/event/8db2c490-752d-47f6-97c3-01bd3eae3cd5"
+    badge: "Major Event",
+    href: "https://app.judahglobal.org/event/da377f7f-5edf-4d87-8a40-6c7eaaad167d"
   },
     {
-    title: "Travis Malloy: Urban Worship Collective",
-    date: "Aug 22, 2026",
-    location: "Bethesda Theater, Bethesda, MD",
+    title: "Love Me Respect Me Marriage Retreat",
+    date: "Sep 24 - Sep 27, 2026",
+    location: "Hyatt Regency Clearwater Beach, FL USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Featured",
-    href: "https://app.judahglobal.org/event/d667ca14-a599-425b-9ab8-d6a4c1281122"
+    href: "https://app.judahglobal.org/event/b59304d9-45d5-4f05-82d2-00d40e938cbb"
   },
     {
     title: "The Chosen Gathering Honor the Oil",
