@@ -24,12 +24,12 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/b59304d9-45d5-4f05-82d2-00d40e938cbb"
   },
     {
-    title: "Love Me Respect Me Marriage Retreat",
-    date: "Sep 24-27 2026",
-    location: "Clearwater, FL, USA",
+    title: "Global Ministers Conference",
+    date: "Sep 28 -Oct 2 2026",
+    location: "Woodland Park, CO, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Major Event",
-    href: "https://app.judahglobal.org/event/b59304d9-45d5-4f05-82d2-00d40e938cbb"
+    href: "https://app.judahglobal.org/event/15da00d4-5ff6-4e61-90d3-7edcdf919ea6"
     }
 ];
 
