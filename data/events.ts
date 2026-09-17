@@ -24,12 +24,12 @@ export const majorEvents = [
     href: "https://app.judahglobal.org/event/b59304d9-45d5-4f05-82d2-00d40e938cbb"
   },
     {
-    title: "The Chosen Gathering Honor the Oil",
-    date: "Sep 3-5 2026",
-    location: "Orlando, FL, USA",
+    title: "Love Me Respect Me Marriage Retreat",
+    date: "Sep 24-27 2026",
+    location: "Clearwater, FL, USA",
     image: "/images/events/fallback-major-2.png",
     badge: "Major Event",
-    href: "https://app.judahglobal.org/event/f4ab7059-019f-4833-8dba-b1fd68decf6d"
+    href: "https://app.judahglobal.org/event/b59304d9-45d5-4f05-82d2-00d40e938cbb"
     }
 ];
 
